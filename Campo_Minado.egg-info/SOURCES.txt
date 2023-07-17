@@ -1,0 +1,5 @@
+setup.py
+Campo_Minado.egg-info/PKG-INFO
+Campo_Minado.egg-info/SOURCES.txt
+Campo_Minado.egg-info/dependency_links.txt
+Campo_Minado.egg-info/top_level.txt
